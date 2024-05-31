@@ -1,0 +1,1 @@
+This code simulates what the processor does when several interrupts come at the same time. It schedules them, gives them a degree of priority, and then chooses the one with the highest priority to run.
